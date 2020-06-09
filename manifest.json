@@ -6,11 +6,11 @@
     "background_color": "#424143",
     "theme_color": "#f2e74f"
     "icons": [{
-        "src": "/img/cat192.jpg",
+        "src": "/img/cat192.png",
           "sizes": "192x192",
-          "type": "image/jpg"
+          "type": "image/png"
         }, {
-            "src": "/img/cat512.jpg",
+            "src": "/img/cat512.png",
             "sizes": "512x512",
-            "type": "image/jpg"      
+            "type": "image/png"      
   }]
