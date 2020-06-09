@@ -1,0 +1,8 @@
+{
+    "name": "Que pedazo de gatito el de la imagen",
+    "short_name": "Gatito",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#424143",
+    "theme_color": "#f2e74f"
+  }
